@@ -1,0 +1,6 @@
+Redgate/
+configstore/
+gatsby/
+
+op/op-daemon.sock
+tmux/plugins/
