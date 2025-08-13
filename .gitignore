@@ -1,7 +1,8 @@
 Redgate/
 configstore/
 gatsby/
-
+gh/
 op/config
 op/op-daemon.sock
+packer/
 tmux/plugins/
