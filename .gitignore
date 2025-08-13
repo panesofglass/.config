@@ -2,5 +2,6 @@ Redgate/
 configstore/
 gatsby/
 
+op/config
 op/op-daemon.sock
 tmux/plugins/
