@@ -4,7 +4,7 @@ return {
     opts = {
       style = "moon",
       transparent = true,
-      terminal_styles = true,
+      terminal_colors = true,
       styles = {
         sidebars = "transparent",
         floats = "transparent",
@@ -19,8 +19,11 @@ return {
     dependencies = "rktjmp/lush.nvim",
     lazy = false,
     priority = 1000,
+    -- you can set set configuration options here
     config = function()
-      vim.o.background = "light"
+      -- vim.g.zenbones_darken_comments = 45
+      -- vim.cmd.colorscheme('zenbones')
+      -- vim.o.background = "light"
       vim.g.zenbones = {
         darkness = "warm",
         lightness = "bright",
