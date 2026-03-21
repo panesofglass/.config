@@ -1,3 +1,4 @@
+.claude/
 Redgate/
 configstore/
 gatsby/
@@ -6,3 +7,4 @@ op/config
 op/op-daemon.sock
 packer/
 tmux/plugins/
+git/
